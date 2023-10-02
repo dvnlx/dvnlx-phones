@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "minecraft:glass"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "L": {
+      "item": "minecraft:redstone_lamp"
+    }
+  },
+  "pattern": [
+    "GRG",
+    "GLG",
+    "GRG"
+  ],
+  "result": {
+    "item": "dvnlx-phones:standard_phone",
+    "count": 1
+  }
+}
